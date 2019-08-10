@@ -8,6 +8,6 @@ random picture I edited
   ---| --- |---
   2019_08_09 | 1 | Dog and Cat at Châteauguay (Quebec) at our first home; reworked the light, painted a sky, removed chairs, removed the electric cable, replanted grass...
 
-
+folder _full res_ : full resolution pictures
 
 -------
