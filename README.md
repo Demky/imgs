@@ -5,7 +5,7 @@ random animations I made
 
 date | technos used | what
 ---| ---| ---
-2019/09/13 | Html/Css, Javascript, GSAP (JS framework) | favicon BB animated 
+2019/09/13 | Html/Css, Javascript, GSAP (JS framework) | favicon BB animated; "website loader borisbelloc(?)" 
 
 # 📸 imgs
 random pictures I edited
