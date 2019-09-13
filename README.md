@@ -1,5 +1,14 @@
-# imgs
-random picture I edited
+# 🎥 Animations
+random animations I made
+--------------
+* **folder** :
+
+date | technos used | what
+---| ---| ---
+2019/09/13 | Html/Css, Javascript, GSAP (JS framework) | favicon BB animated 
+
+# 📸 imgs
+random pictures I edited
 --------------
 
 * **files** :
@@ -8,13 +17,16 @@ random picture I edited
 
 <br>
 
-* Irl : picture from real life I reworked.
+* 🖼 Irl : picture from real life I reworked.
 
 
 <br>
 
 # Creations screenshots :
+Screenshots of websites/applications I worked on.
 
-* **AfpaCar** : Screenshot of website made during formation (2018) : Web Developer
+* **2018-AfpaCar** : Website made during formation (2018) : Web Developer
+* **2018_12-StageArcanae** :  Website made during internship formation (2018) : Web Developer
+* **2018-Morpion_tictactoe** : QT app made during formation (2018) : Web Developer
 
 -------
