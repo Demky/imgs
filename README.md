@@ -5,7 +5,7 @@ random animations I made
 
 date | technos used | what | folder
 ---| ---| ---| ---
-2019/09/12 | Html/Css, Javascript, GSAP (JS framework) | favicon BB animated; "website loader borisbelloc(?)" | 2019_09_12-BBfavicon
+2019/09/12 | Html/Css, Javascript, GSAP (JS framework) | favicon BB animated; "website loader borisbelloc(?)" | 2019_09_12-BBAnimation1
 
 Todo: add 'CV spells' ?
 
