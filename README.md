@@ -3,9 +3,11 @@ random animations I made
 --------------
 * **folder** :
 
-date | technos used | what
----| ---| ---
-2019/09/13 | Html/Css, Javascript, GSAP (JS framework) | favicon BB animated; "website loader borisbelloc(?)" 
+date | technos used | what | folder
+---| ---| ---| ---
+2019/09/12 | Html/Css, Javascript, GSAP (JS framework) | favicon BB animated; "website loader borisbelloc(?)" | 2019_09_12-BBfavicon
+
+Todo: add 'CV spells' ?
 
 # 📸 imgs
 random pictures I edited

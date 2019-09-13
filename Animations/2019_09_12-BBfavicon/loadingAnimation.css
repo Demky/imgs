@@ -1,0 +1,118 @@
+/* ---- VERIf ---- */
+[class*="container"] {
+  /* border: 1px solid coral; */
+}
+
+[class*="row"] {
+  /* border: 1px solid red; */
+}
+
+[class*="col-"] {
+  /* border: 1px solid yellow; */
+}
+
+/* *-************************ */
+
+body {
+  background-color: #25A7AF;
+    /* background-color: #242f3f; */
+}
+
+#loaderWrapper {
+  width: 100%;
+  height: 100%;
+  /* width: 300px; */
+  /* height: 300px; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* border: 1px red solid; */
+  display: flex;
+  /* establish flex container */
+  justify-content: center !important;
+  /* center items vertically, in this case */
+  align-items: center !important;
+  /* center items horizontally, in this case */
+}
+
+#canvas-wrap {
+  position: relative;
+  width: 500px;
+  /* height: 500px; */
+  /* 400 minimal size */
+  height: 400px;
+  /* border: 1px orange solid; */
+}
+
+#canvas-wrap canvas {
+  z-index: 5;
+  position: absolute;
+  /* top: 0; */
+  /* left: 0; */
+  /* border: 1px solid green; */
+}
+
+.loaderBox {
+  /* border: 1px blue solid; */
+  width: 500px;
+  /* height: 500px; */
+  height: 500px;
+  display: flex;
+  position: relative;
+}
+
+#underscore {
+  /* border: 1px purpel solid; */
+  opacity: 0;
+  z-index: 5;
+  margin: auto;
+  /* Magic! */
+  
+}
+
+.maskBackground {
+  z-index: 4;
+  position: absolute;
+  background-color: #25A7AF;
+  /* background-color: yellow; */
+  /* height: 200px; */
+  /* width: 250px; */
+  width: 20%;
+  /* border: 1px yellow solid; */
+}
+#maskBackground0 {
+  top: 48%;
+  left: 30%;
+  height: 158px;
+}
+#maskBackground1 {
+  top: 50.1%;
+  left: 50%;
+  /* height: 150px; */
+  height: 148px;
+}
+
+.b {
+  z-index: 3;
+  position: absolute;
+  top: 50%;
+}
+
+#b0 {
+  left: 30%;
+  /* border: 1px red solid; */
+}
+
+#b1 {
+  left: 50.2%;
+  /* border: 1px pink solid; */
+}
+
+/*  */
+/* #bini {
+  z-index: 3;
+  position: absolute;
+  top: 44.6%;
+  left: 23.6%;
+  border: 1px green solid;
+} */
